@@ -1,4 +1,8 @@
-
+/* 
+ * Name - Sai premjeet Das
+ * Reg_No - 2241004095
+ * PS - https://cses.fi/problemset/task/1618/
+ */
 import java.util.Scanner;
 
 public class Q7_1618 {
